@@ -1,0 +1,11 @@
+<Device Model="RMC4">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="25"/>
+      <Device Model="CSM-QMTDC-163-1-CN,CSM-QMTDC-256-2-CN,CSM-QMTDC-250-2-CN,CSM-QMTDC-250-4-CN,CSM-QMTDC-275-4-CN," DeviceId="27" Name="CSM-QMTDC-CN"/>
+      <Device Model="CLX-1DIM8" DeviceId="65"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="Core3 UI XPanel" DeviceId="03" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="DM-MD6x4" DeviceId="04"/>
+   </Network>
+</Device>
