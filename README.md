@@ -1,6 +1,6 @@
-# Crestron P101 Training Project – Basic Control System
+# Crestron CTI-P101 Training Project – Basic Control System
 
-This project was developed as part of the **Crestron P101** training course.  
+This project was developed as part of the **Crestron CTI-P101** training course.  
 It demonstrates the fundamentals of building a control system using **SIMPL**:
 
 - Signal naming and routing
